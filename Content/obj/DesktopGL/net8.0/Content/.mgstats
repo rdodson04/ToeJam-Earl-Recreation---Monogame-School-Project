@@ -1,0 +1,16 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/futur/OneDrive/Desktop/MonoGame/Content/AngryBees.png","C:/Users/futur/OneDrive/Desktop/MonoGame/Content/bin/DesktopGL/Content/AngryBees.xnb","TextureProcessor","Texture2DContent",2501,184373,0.081953
+"C:/Users/futur/OneDrive/Desktop/MonoGame/Content/Cupid.png","C:/Users/futur/OneDrive/Desktop/MonoGame/Content/bin/DesktopGL/Content/Cupid.xnb","TextureProcessor","Texture2DContent",4677,138325,0.0072518
+"C:/Users/futur/OneDrive/Desktop/MonoGame/Content/Earl_Transparent.png","C:/Users/futur/OneDrive/Desktop/MonoGame/Content/bin/DesktopGL/Content/Earl_Transparent.xnb","TextureProcessor","Texture2DContent",135288,2549421,0.1719323
+"C:/Users/futur/OneDrive/Desktop/MonoGame/Content/Elevator.png","C:/Users/futur/OneDrive/Desktop/MonoGame/Content/bin/DesktopGL/Content/Elevator.xnb","TextureProcessor","Texture2DContent",7321,680021,0.0196824
+"C:/Users/futur/OneDrive/Desktop/MonoGame/Content/File.spritefont","C:/Users/futur/OneDrive/Desktop/MonoGame/Content/bin/DesktopGL/Content/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21530,0.1646408
+"C:/Users/futur/OneDrive/Desktop/MonoGame/Content/floor_path_tiles (1).png","C:/Users/futur/OneDrive/Desktop/MonoGame/Content/bin/DesktopGL/Content/WorldTiles.xnb","TextureProcessor","Texture2DContent",58037,524373,0.1185467
+"C:/Users/futur/OneDrive/Desktop/MonoGame/Content/Fonts.png","C:/Users/futur/OneDrive/Desktop/MonoGame/Content/bin/DesktopGL/Content/Fonts.xnb","TextureProcessor","Texture2DContent",3544,64025,0.0036041
+"C:/Users/futur/OneDrive/Desktop/MonoGame/Content/HUD_Display.png","C:/Users/futur/OneDrive/Desktop/MonoGame/Content/bin/DesktopGL/Content/HUD_Display.xnb","TextureProcessor","Texture2DContent",52512,1976149,0.1331032
+"C:/Users/futur/OneDrive/Desktop/MonoGame/Content/items_scenery_tranparent.png","C:/Users/futur/OneDrive/Desktop/MonoGame/Content/bin/DesktopGL/Content/items_scenery_tranparent.xnb","TextureProcessor","Texture2DContent",15405,399445,0.0254422
+"C:/Users/futur/OneDrive/Desktop/MonoGame/Content/Lil_Devil.png","C:/Users/futur/OneDrive/Desktop/MonoGame/Content/bin/DesktopGL/Content/Lil_Devil.xnb","TextureProcessor","Texture2DContent",7427,208293,0.2467844
+"C:/Users/futur/OneDrive/Desktop/MonoGame/Content/Main_Menu.png","C:/Users/futur/OneDrive/Desktop/MonoGame/Content/bin/DesktopGL/Content/Main_Menu.xnb","TextureProcessor","Texture2DContent",11370,522325,0.0143618
+"C:/Users/futur/OneDrive/Desktop/MonoGame/Content/Shark.png","C:/Users/futur/OneDrive/Desktop/MonoGame/Content/bin/DesktopGL/Content/Shark.xnb","TextureProcessor","Texture2DContent",1293,56405,0.0044336
+"C:/Users/futur/OneDrive/Desktop/MonoGame/Content/ToeJam_Transparent.png","C:/Users/futur/OneDrive/Desktop/MonoGame/Content/bin/DesktopGL/Content/ToeJam_Transparent.xnb","TextureProcessor","Texture2DContent",110869,2549421,0.2303156
+"C:/Users/futur/OneDrive/Desktop/MonoGame/Content/Tornado.png","C:/Users/futur/OneDrive/Desktop/MonoGame/Content/bin/DesktopGL/Content/Tornado.xnb","TextureProcessor","Texture2DContent",8317,159829,0.0039297
+"C:/Users/futur/OneDrive/Desktop/MonoGame/Content/Wizard.png","C:/Users/futur/OneDrive/Desktop/MonoGame/Content/bin/DesktopGL/Content/Wizard.xnb","TextureProcessor","Texture2DContent",8022,186901,0.008314

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "f6iyxj22mJM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\futur\\OneDrive\\Desktop\\MonoGame\\MonoGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\futur\\.nuget\\packages\\monogame.content.builder.task\\3.8.4\\monogame.content.builder.task.3.8.4.nupkg.sha512",
+    "C:\\Users\\futur\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.4\\monogame.framework.desktopgl.3.8.4.nupkg.sha512",
+    "C:\\Users\\futur\\.nuget\\packages\\monogame.library.openal\\1.23.1.10\\monogame.library.openal.1.23.1.10.nupkg.sha512",
+    "C:\\Users\\futur\\.nuget\\packages\\monogame.library.sdl\\2.32.2.1\\monogame.library.sdl.2.32.2.1.nupkg.sha512",
+    "C:\\Users\\futur\\.nuget\\packages\\nvorbis\\0.10.4\\nvorbis.0.10.4.nupkg.sha512",
+    "C:\\Users\\futur\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.18\\microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\futur\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.18\\microsoft.windowsdesktop.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\futur\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.18\\microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\futur\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.18\\microsoft.netcore.app.host.win-x64.8.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
